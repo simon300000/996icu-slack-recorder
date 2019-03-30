@@ -31,7 +31,7 @@ const token = require('./token')
       let text = object.text
       let channel = channels[object.channel] || object.channel
       console.log(`${channel}: ${text}`)
-      fs.appendFileSync(`${date.getFullYear()}-${date.getMonth()+1}-${date.getDate()}-${channel}.txt`, text + '\n')
+      fs.appendFileSync(`./records/${date.getFullYear()}-${date.getMonth()+1}-${date.getDate()}-${channel}.txt`, text + '\n')
     }
   })
   client.on('close', () => {
