@@ -18,10 +18,11 @@ const token = require('./token')
   console.log(`URL: ${url}`)
 
   const client = new WebSocket(url);
+  // https://api.slack.com/rtm
   client.on('open', () => {
     console.log('wss Connected')
   })
-  client.on('message', data => {
+  client.on('message', async data => {
     let object = JSON.parse(data)
     if (object.type == 'hello') {
       console.log('Hello from Slack')
@@ -32,6 +33,13 @@ const token = require('./token')
       let channel = channels[object.channel] || object.channel
       console.log(`${channel}: ${text}`)
       fs.appendFileSync(`./records/${date.getFullYear()}-${date.getMonth()+1}-${date.getDate()}-${channel}.txt`, text + '\n')
+    }
+    if (object.type == 'channel_created' || object.type == 'channel_deleted' || object.type == 'channel_rename') {
+      let updateChannels = JSON.parse((await got(`https://slack.com/api/conversations.list?token=${token}`)).body).channels
+      for (let i = 0; i < updateChannels.length; i++) {
+        channels[updateChannels[i].id] = updateChannels[i].name
+      }
+      console.log('updateChannels')
     }
   })
   client.on('close', () => {
