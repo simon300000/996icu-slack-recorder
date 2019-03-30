@@ -1,0 +1,23 @@
+{
+  "name": "996icu-slack-recorder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simon300000/996icu-slack-recorder.git"
+  },
+  "author": "",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/simon300000/996icu-slack-recorder/issues"
+  },
+  "homepage": "https://github.com/simon300000/996icu-slack-recorder#readme",
+  "dependencies": {
+    "got": "^9.6.0",
+    "ws": "^6.2.1"
+  }
+}
