@@ -15,3 +15,51 @@ rua
 谁能随便说句话吗，我想测试一下黑名单功能
 ww
 ok成了。。。
+成了
+Recorder增加了一个记录黑名单功能，有谁全局不想被记录可以私信我或者pull request，加进不记录的列表里面
+我觉得这次就是一次机会嘛，要是国内制定的规则能影响国际多好，就我觉得怎么样也会开心的呀
+<https://twitter.com/organisehq/status/1114119012441575425> 这个挺有趣的
+<https://github.com/996icu/996.ICU/pull/25219>
+看到一个客观的评论 <https://www.youtube.com/watch?v=AURDoAq3MVA>
+是的，如果不光是改善了国内的工作环境，也能对其他地区有影响，是难得的输出案例。
+我又来发新闻拉
+<http://china.cnr.cn/xwwgf/20190405/t20190405_524568985.shtml>
+来源：中央人民广播电台（原创）
+<https://www.reuters.com/article/us-china-tech-labour/rare-overtime-protest-by-china-tech-workers-goes-viral-idUSKCN1RH12B>
+路透社
+要争取最广泛的支持，团结一切可以团结的力量
+群里活跃的都是记者大佬们吗
+都是看热闹吧
+大厂的员工去仲裁的,员工会不会被所有大厂拉入黑名单,看国内浏览器的统一尿性,我觉得肯定会
+为啥不抵制国内浏览器？
+可以搞个云外包平台，暂时失业的同学可以去平台上接活，过段时间再找工作
+并且，据我所知，根本就没有啥黑名单
+发动非程序员群体抵制么？
+对
+背调
+说程序员倾情推荐谷歌或火狐，这样他们就能上996icu的github了
+<https://github.com/Y1ran/996.Law/pull/73>
+根据最近看了一些仲裁案例，还有其他朋友提到的一些举证方式，整理放上来，大家看看OK不
+<https://www.ifanr.com/1195365>
+最好还是像轮子哥说的，离职后再去申请加班补偿费。在职时去举报，那么就很难继续工作了。
+应该是管理付钱，按人头，我们上千人要好多好多钱
+其实996不发钱才可怕，不过反996是有必要的
+如何保证不背政府干预
+没有施舍来的平等，唯有互相威慑的平衡
+基金会背后都被操纵了吗
+GPL协议是一个很有威慑的协议，传染，强迫开源
+已经有了一个海外招聘板块了
+<#CH7BL0MND|996icu-cn-petitioner> 这个名字看着就很惊心动魄
+<#CH7BL0MND|996icu-cn-petitioner> 这个名字看着就很惊心动魄
+同样不喜欢恶俗维基，我把那个频道关了
+我之前加了 <https://github.com/996icu/996.ICU/blob/master/Community_Rules_CN.md> 大家可以一起遵守
+不然pr里的各种没意义的吵架等等太多了
+<https://www.jianshu.com/p/d1877bf24596?utm_campaign=hugo&amp;utm_medium=reader_share&amp;utm_content=note&amp;utm_source=weixin-friends>
+其实license的事情可以看早年RMS的论述
+FSF 和 open source 本来就部分分裂了
+国内很可惜没参与FSF的机会
+曾经见过RMS聊这个话题。他很tough。跟MIT有联系的人恐怕都知道。当然他年纪也不小了。
+之前也有很多人问我license的事情，包括是不是不符合开源精神。请注意「歧视」这个词是有很多法律定义的。另外，可以去看看rms早年一些论述，linus原来也很支持他的，现在发言少了而已。
+上次见rms还是在mit好像。他特别tough…
+ted nelson
+等行业里辩论下吧
