@@ -52,3 +52,6 @@ const userBlackList = [
     console.log('wss Closed')
   })
 })()
+
+setTimeout(process.exit, 1000 * 60 * 60 * 18)
+// auto restart every 18 hours
