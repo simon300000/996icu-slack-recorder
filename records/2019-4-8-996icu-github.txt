@@ -1,0 +1,22 @@
+<@UHH4KPE9M> has joined the channel
+<@UHG0SM3ST> set the channel purpose: Github notifications
+/github subscribe simon300000/996icu-slack-recorder
+<@UHHGQAP2T> has joined the channel
+<@UHPT2EAPN> has joined the channel
+<@UHHGZRKEZ> has joined the channel
+我没权限啊
+我必须要有996icu repo的某些权限才能在这里加hook
+要装这个
+谢谢
+谢谢
+把这个链接给他
+<https://slack.github.com/github/install/48942249/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0cmlnZ2VyX2lkIjoiNjAzMzA3NTc4NTQ4LjU4ODIwNzI2OTQxMy4xODQ5YjYzZGE5MWI0NmZmNGZmZjE4NzVjM2I4MmQ5ZSIsInJlcGxheVNsYXNoQ29tbWFuZCI6dHJ1ZSwidGVhbVNsYWNrSWQiOiJUSEE2MzdYQzUiLCJ1c2VyU2xhY2tJZCI6IlVIRzBTTTNTVCIsImNoYW5uZWxTbGFja0lkIjoiQ0hTS1NSMVQ4IiwiaWF0IjoxNTU0NzIwNjk1LCJleHAiOjE1NTQ3MjQyOTV9.Poom9SzCPJ7W0N9DgJD0xPBWhw081g8TwUnMXs8xLVc>
+好像是他不需要在这个channel，只要他装了slack，我就能加的样子
+这个链接应该是打开github页面，在repo安装slack插件，而不是打开slack
+噗
+我去看看
+233
+都没用过discord
+/github subscribe simon300000/996icu-calc
+<@UHH0WBZFZ> has joined the channel
+/github subscribe list
