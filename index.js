@@ -5,7 +5,8 @@ const WebSocket = require('ws')
 const token = require('./token')
 
 const userBlackList = [
-  'UHDQR2VT3'
+  'UHDQR2VT3',
+  'UHJ5JVBPX'
 ]
 
 ;
