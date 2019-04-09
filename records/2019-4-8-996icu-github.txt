@@ -20,3 +20,19 @@
 /github subscribe simon300000/996icu-calc
 <@UHH0WBZFZ> has joined the channel
 /github subscribe list
+/github subscribe 996icu/996.ICU
+<@UHDQR2VT3> 成了
+<@UHCAMG2KS> has joined the channel
+<@UHG4D2SEQ> has joined the channel
+<@UHHG3GYPQ> has joined the channel
+<@UH64ZHJAV> has joined the channel
+<@UHEE9UPPA> has joined the channel
+<@UHFRFKJ2Y> has joined the channel
+<@UHDK53HME> has joined the channel
+<@UHG0SM3ST> set the channel topic: github用户“996icu”正在实施996工作制来处理大量的pull request（滑稽）---不用透露姓名的略先生
+2333
+我怎么觉得看他处理速度有点像是一个人
+我感觉996icu似乎不想怎么搞，不然早就弄了。而且现在pull request也少了很多，压力应该没有一开始几天那么大了吧
+之前我记得搞了一个组织账号，然后又转回了996icu
+<@UHGS8BGUW> has joined the channel
+<@UHCC4GDQ8> has joined the channel

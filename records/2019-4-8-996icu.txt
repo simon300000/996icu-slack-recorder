@@ -157,3 +157,21 @@ github要是更新fork也能直接操作就好了
 我一般直接fork一个新branch，老得删掉
 有时间了直接Bootstrap大法好
 再问一下哈，最好在北京
+我决定发个想法
+我验算了一下，应该没有问题<@UHE3DDD5W>
+有点误差，应该没事
+嗯
+你可以把我一开始贴的那个链接也贴上去，用来解释你为什么用这条公式
+大概是一年52周的原因
+好
+百度百科
+<https://www.toutiao.com/a6677496996820943373/>
+是谁
+996icu Pull Request 提醒已经启动 <#CHSKSR1T8|996icu-github>
+I've been using more Chinese than English in here lately... But it's good practice, and I don't think my Chinese writing skills are as bad as I thought!
+别怕，程序员语文都不好（雾
+<https://github.com/CPdogson/996action>
+一个利用信息公开督促行政单位监督劳动法实施的项目
+接楼上联想到一个，信息可视化设想：类似github根据写代码频繁度会在年度表上标出你什么时候写了代码。那么如果有一个工程能够显示单位上下班的时间段，超出劳动法时间的就显红，只要红了就在网上@劳动部门去核查该企业。
+:+1:
+重点爆破996企业，颜色用紫色！
