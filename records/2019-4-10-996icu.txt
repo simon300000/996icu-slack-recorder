@@ -138,3 +138,54 @@ what is it
 互联网企业有工会吗，一直没接触到过。。
 有
 一般是行政部经理兼任工会主席，总经理兼任工会副主席
+:anguished:那算了。。哪有工会会去找自己企业维权的
+不过也没见过组织什么工会活动
+中秋节发月饼就是工会活动
+好像有发冰激凌卷的
+谁会用md写流程图
+:rolling_on_the_floor_laughing:还是我直接连个jpg算了
+graphviz？
+LaTeX
+LaTeX应该可以直接插入，Graphviz需要生成一个svg
+<https://support.typora.io/Draw-Diagrams-With-Markdown/>
+如果你用typora的话..
+大概要Github展示，Github怕不是不支持
+那md直接可以直接贴图片吗？怎么写？
+和链接超不多，可以是相对链接
+谢谢
+]
+:rolling_on_the_floor_laughing:没用呀，()里要写啥吗
+噗哈哈 ()里面写链接 []里面写注释来着
+:rolling_on_the_floor_laughing:体谅我的不专业
+233没事没事
+其实我想用md写的，图片费流量，希望未来有人来写
+<https://github.com/CPdogson/996.law>
+大概写了个大纲，和取证部分的完善
+我觉得不该把一大堆东西全丢readme.md，不过等我把本体写完再说吧:rolling_on_the_floor_laughing:
+<https://www.jianshu.com/p/6e045606d879>
+我写过一个教程，可以用七牛云做图床
+10G免费空间 足够用了
+优秀
+没关系，写完再慢慢调整
+A1 服务指南名称 申请成立社会团体办事指南.doc
+<http://edu.wenzhou.gov.cn/art/2018/2/26/art_1324580_15634891.html>
+:rolling_on_the_floor_laughing:这玩意最重要的就是实名申请
+实名就实名，有组织之后，就可以让开源作者委托举证，然后找996的公司收钱去
+要么给钱、要么主动取消996，让公司自己选吧。
+<@UHVL4SU0N> has joined the channel
+这不算难事啊。点赞都20万了，一人一块钱而已
+:rolling_on_the_floor_laughing:你这想法不就是收保护费吗，996保护费，然后被扫黑除恶一网打尽
+Once a worker has finished reading, he can conduct manuals for labor arbitration and labor litigation. I hope that workers can obtain evidence at any time.
+一本劳动者看完就可以自己进行劳动仲裁和劳动诉讼的手册。希望劳动者随时取证。
+没语法问题吧？
+可以拿Github做图床啊→_→？
+<@UHVAMDR8X> has joined the channel
+读者怪怪的，比如不需要has finished，once a worker finishes reading就可以
+而且这第一句话貌似就是一本手册
+:sob:已经pr了，欢迎之后进行修改
+嗯嗯，而且第二句改成workers are encouraged to … 可能会更好
+sm.ms也行啊
+我想想怎么重新措辞吧
+是的，我希望能表述2点，一点是看完之后不需要找律师就可以完成劳动仲裁和劳动诉讼，第二点是希望劳动者在工作中随时注意取证。
+A manual for workers who wish to conduct labor arbitration and labor litigation on their own/without a lawyer. Workers are encouraged to obtain evidence at all times. （这样？
+邓爷爷当年说过 黑社会也会做好事

@@ -1,0 +1,66 @@
+<@UHEGC0CM9> has joined the channel
+<@UHS3T4XHN> has joined the channel
+<@UHWPTT5HU> has joined the channel
+<@UHWE4RSUX> has joined the channel
+第一次用slack:eyes:
+:rolling_on_the_floor_laughing:之前聊天的多，现在安静了好多
+<@UHFDC4N83> has joined the channel
+Hello
+现在热度已经降下来了，我觉得可以适时将issues放开了 <@UH9QUGJSY>
+我觉得基本上都是程序员，没有太多的时间在这里一直关注着的，都是很多的任务在手里，上着班。
+任何群里，不说话的都是大多数吧，正常
+<@UHLKFGWRX> has joined the channel
+<@UHFDWEVEF> has joined the channel
+<@UHLKGSZSM> has joined the channel
+<@UHLKH8XK3> has joined the channel
+喔……居然有轮子哥
+<@UHFGMLRJ6> has joined the channel
+轮子哥到处活跃呢
+轮子是谁？
+<https://www.zhihu.com/answer/356507745>
+感觉国内加班这么狠，就是华为带起来的
+<@UHFH3CDH8> has joined the channel
+从tg过来的 不会用slack……
+<@UHE3DDD5W>
+我提了个PR给你，上回发到旧的996law 结果他关掉了，看看合适不合适
+看到了，格式可能需要修改一下，或者我把其他证据整栏格式修改下，下班处理
+tg的群里是不加密的，不推荐使用 :rolling_on_the_floor_laughing:我一直不觉得Tg是一个优秀的保密通讯工具
+whatsapp、signal在加密性上比tg更优秀
+我的语伴告诉我用Twitter的app(ios/Android)无法发送 带有996.ICU链接的推文(不过用web是可以的)。
+我试了一下Github上的网址发Twitter的推文，好像真不行欸。
+这是怎么回事呀？
+tg 群聊不是不加密，只是没有点对点加密，私聊就有点对点加密，别搞错。
+mt协议应该是加密的吧
+部分帐号可以。可能是防止spam
+<@UHFKYEB0S> has joined the channel
+<@UHFKYURMY> has joined the channel
+<@UHFL6DXPU> has joined the channel
+<@UHFHJV9AP> has joined the channel
+<@UHLPFKGD7> has joined the channel
+<@UHWVC2HKQ> has joined the channel
+<https://maimai.cn/web/gossip_detail?encode_id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MjExNDIzNDgsImlhdCI6MTU1NDk2OTAyMH0.UBJR9pw5CkLqTJS48fIsTES4jQko393TGTq15NCQZi0>
+京东
+昨天公司接到反馈后了解，这位同事是由于长期患有抑郁症而离开的。公司正在协助家属处理善后事宜，并会给予家属提供人道捐助和心理辅导。请大家尊重逝者和家属，不信谣，不传谣，让逝者安息！���
+好的 谢谢回复哈!
+京东最近的996也是导火索吧
+Direct Messages不会公开吧？
+不会，只有和@Recorder 说的会公开
+可以去repo看看具体是什么信息
+233
+冒虚汗……
+
+<@UHT6GTX96> has joined the channel
+<@UHT6X1X24> has joined the channel
+<http://画图可以使用draw.io|xn--draw-955fz5af1u7qg099ekfa.io>, 在线画框图，能保存为xml、pdf、html等很多格式  <https://www.draw.io/>
+.md是不是没办法写表格？
+可以写
+可以写的，我可以给你找个例子
+像这种的
+这种可能不行。。。
+Markdown好像支持html，大概可以试试 <https://blog.csdn.net/sunbocong/article/details/81033915>
+我用大点的电脑截图吧，万一写出来github不支持我岂不是很亏
+嘿嘿那倒是
+可以直接把pdf或者docx文件也放上去？
+docx我会放上去
+但我要先清楚我的个人信息
+嗯这挺重要
