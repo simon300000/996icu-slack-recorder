@@ -64,3 +64,19 @@ Markdown好像支持html，大概可以试试 <https://blog.csdn.net/sunbocong/a
 docx我会放上去
 但我要先清楚我的个人信息
 嗯这挺重要
+<@UHT80M55W> has joined the channel
+据我所知，MD只支持最简单的表格结构
+<https://github.com/CPdogson/996.law>
+基本完工，撒花！
+大家可以看看，觉得看完之后仲裁还有哪些地方我没有解释明白的，可以直接联系我，也可以提Issues
+我放pdf了，有兴趣的可以试着写，我认输了
+<@UHWRMNDD5> has joined the channel
+<@UHTAFFT32> has joined the channel
+<@UHFTX4JF4> has joined the channel
+新人报到。
+这个容易。用一个简单点的格式比如yaml列信息，然后latex生成表格
+求教如何解除禁用，谢谢。
+求教大佬，这个如何解除停用。
+靠你pr了:heart_eyes:
+LaTeX会的人比较少唉
+这个网站名是什么？

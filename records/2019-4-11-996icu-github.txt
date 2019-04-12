@@ -1,0 +1,9 @@
+/github subscribe CPdogson/996.law
+/github subscribe CPdogson/996action
+/github subscribe list
+已经订阅了呀
+/github subscribe fengT-T/996_list
+好像是一段时间之前的事情，github更新的
+所以我之前在想要是996icu开了issue，可以写个自动一键删issue的东西
+<@UH84M0HJ5> has joined the channel
+/github subscribe 996-icu-avengers/Natasha
