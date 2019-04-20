@@ -2,7 +2,7 @@ const fs = require('fs')
 const got = require('got')
 const WebSocket = require('ws')
 
-const token = require('./token')
+const token = require('./token').bot
 
 const userBlackList = [
   'UHDQR2VT3',
