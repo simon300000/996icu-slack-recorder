@@ -1,0 +1,13 @@
+<https://github.com/996icu/996.ICU/pull/25709>
+<https://www.theverge.com/2019/4/22/18511088/microsoft-github-tech-censorship-996-repository-china>
+<@UJ58VDFGE> has joined the channel
+<@UJ4UP5R3R> has joined the channel
+vultr是那个出租服务器的吧
+root@vultr.guest大概是因为上传者用vultr租的服务器上传的，他们服务器默认就是vultr.guest，账户root 所以这样的结果
+王爷反作弊的代码在哪
+学不动了 收藏不看系列
+昨天的研讨会笔记，整理在了这里：<https://github.com/shad0wsek1ro/996.Solidarity/blob/master/%E8%AE%BA%E5%9D%9B%E5%9B%B4%E8%A7%82%EF%BC%9A%E2%80%9C996%E4%BA%8B%E4%BB%B6%E2%80%9D%E6%B3%95%E5%BE%8B%E9%97%AE%E9%A2%98%E7%A0%94%E7%A9%B6.md>
+
+这个GitHub页面，也整理了我们为反对996进行的一系列行动，欢迎经常交流:kissing_cat:
+&gt;（然后啰嗦了一大堆律师行业的996）
+233
