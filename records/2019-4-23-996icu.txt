@@ -60,3 +60,83 @@ repo是真的
 真有人搞鬼？
 日本微軟22日發表，將導入夏季限定的 #週休3日 制度。2019年8月所有星期五將成為有薪休假，國內所有辦公室將關門休息。對象為正式社員約2300人，休假方式可自行安排，如選擇出外旅行最多能補助公司福利最高10萬日元，公司將測試此制度所帶來的生產性，結果將會向合作夥伴公告。
 <https://twitter.com/khootiatling/status/1120261227777642496>
+<@UHS2HNQ7M> has joined the channel
+<@UJ5BDQTP1> has joined the channel
+<@UHS2HNQ7M> here
+:slightly_smiling_face:
+hi 大家 <@UHS2HNQ7M> 是我的记者朋友，有一个中文的调查问卷希望大家可以填一下（关于996与健康）
+<@UJ5BF4C6B> has joined the channel
+谢谢Suji! 大家好！我们想做一个聚焦996工作者身心健康状况的报道，计划以英语写作发布在CNN网站Health板块。我们需要一些Case studies了解真实的情况。麻烦大家帮填一下这个问卷，任何问题都可以联系我。欢迎转发！
+<http://www.wenjuanbang.com/Survey/Detail?key=511293dd-953c-4bc4-9718-c7460886d470>
+写了
+:sweat_smile:不孕不育.......
+没时间谈恋爱=不孕不育
+没毛病
+调查问卷 不需要姓名吧:thinking_face:
+填完了
+多谢！ 可以只填姓。由于一般国外媒体极少用匿名，我们最好是希望能有个全名。因为是英语写作，所以全名也只是拼音而已:wink:
+填入了笔名:rolling_on_the_floor_laughing:
+<@UJ5BWEXU7> has joined the channel
+<@UJ5MPSWJJ> has joined the channel
+<https://mp.weixin.qq.com/s/QQP8EUE_aKI049WzZYXlJA>
+能表达一下你们对这个项目的态度吗？
+你说这个996 funding么？
+研究DeFi的熟人做的。
+我个人的一点小想法，作为现今最大最值钱最年轻的开源项目，以太坊ETH应该加入Anti996行列里去
+我看他们并没有提到混币的操作
+希望能成功吧
+我觉得996只是social event的一个开头，接下来会有越来越多这样的组织。funding这个项目是希望多一个选择，而不是局限于现有的法律框架和工具。实验意义大于实现意义。
+感觉没必要那么复杂，可以实现几个人保管一把秘钥
+直接采用（3,5）门限的方式可以实现多人持有一个地址的秘钥且只要有大多数人同意即可通过。但是发行token的话很容易和炒币，上交易所关联上，最终容易走偏。
+如果真的需要资金的话，确实区块链好一些，方便监察。但个人认为只需要区块链的记录交易记录和收款功能就行了。没有必要发行代币。况且以太坊的合约可以实现限制取款、限制收款、在多人同意的情况下才能取款。
+Hi，提个小建议，关于工作时长的调查，也许可以问以前有没有经历过超长时间加班，并且加班时间是多长这样，因为有些人已经加不动了。
+<@UHS695J8J> has joined the channel
+<@UJ31UM360> has joined the channel
+<@UJ2J1GLFJ> 以太坊管理稳定币么 的确好一点
+嗯
+<@UJ3K41ABA> has joined the channel
+<@UHX9F2XAM> has joined the channel
+关于这个问题 引用一下“如果管理者在短时间内拿走所有的钱甚至跑路，那后来的捐款者会看到，对管理者的信任降低，停止捐款。”
+这里实质上是后知后觉的，就是要等这件事发生损害了，然后大家停止捐款，没有解决跑路问题，完全可以变成放长线钓大鱼，等资金池够大了，再收割走。
+<@UHS6TSEHY> has joined the channel
+多人同意下的取款是可行的，大大降低了管理者跑路的风险。捐款不能无限的捐，最好开放认捐名额，资金在活动中用完了再开放一批出来认捐，达到上限了就停止捐献
+<@UHS513RLK> has joined the channel
+2333
+赞
+我觉得Optima字体很好看（歪
+投票有投票的问题，如果按人头投，本身就是匿名的，完全可以虚拟多几个捐赠者出来，改变投票结果。
+或者按代币持有量来投，这样就必须禁止管理者自己增发代币，但还是会导致资金大头的人决定资金走向，变成大鱼吞小鱼了。
+<@UJ5DYKHUP> has joined the channel
+不明觉厉。
+可是直接禁止印钱那可能会有特殊情况？
+原文中说取款有2种方式，直接取，或者增发代币之后用代币换。效果上在原规则上是一样的。如果加入投票机制，那么增发代币就等于增加投票份额了，这就有问题了。
+筒子们，谁有好的编程书在这里分享一下啊  <http://ebook.lorefree.com/>
+互联网+工人运动万岁
+是的，对于取款没区别，对于投票有区别
+最后的取款可以采取多重签名，但是管理机制就比较复杂
+<@UJ2J1GLFJ> 如果不发行代币，就没法实现可逆捐款。发行代币是为了实现更灵活的功能，跟ICO不一样
+<@UJ4DR8QNT> 逆向捐款意思是捐献人可以用代币换回捐款的意思吗？实际上，如果管理者真的卷款跑路，1、全部卷走的话手上的token直接归零，2.部分卷走导致大家大量抛售的话价值也是走向归零的节奏。而且如果调用erc20的approve接口，实际上可以达到相同的效果。
+<@UJ2J1GLFJ> bancor是固定汇率的
+例如创建一个由多人同意才能提款的合约996icu，接受erc20的代币，例如usdt。捐献者在usdt的合约上为996icu的合约地址approve一定金额，这视为向996icu捐款，当组织需要资金时才实际去交易这笔资金。如果捐献人想收回未花完的捐献款项时，重新approve为0即可。
+cool！这个不错
+<@UHXDFBM3K> has joined the channel
+<@UJ2J1GLFJ> 并不全是为了捐款跑路的风险。其实我们对中心的信任是相对的，而不是绝对的。捐款是动态的。例如，当后期真实的捐款额超过早期捐款者的预期，比如已经到了几千万，那捐款人不仅担心跑路，而且认为该组织并不需要这么多钱，从而希望减少自己的投入。这样的话有利于在早期增加大家的捐款意愿，而在晚期保护捐款者的资产安全。
+是的，但“多人”也是指定的一些人，不可能实现所有人。所以只是中心化的程度不同
+<@UJ3MCEYBX> has joined the channel
+<@UJ5TZEFML> has joined the channel
+<@UHSBJM7A6> has joined the channel
+在讨论中产生新想法，Nice:call_me_hand:
+这个界面和readfree好像啊:rolling_on_the_floor_laughing:
+<@UJ3PD9SJZ> has joined the channel
+<https://www.weibo.com/1916825084/HqZpM1VnQ?from=page_1005051916825084_profile&amp;wvr=6&amp;mod=weibotime>
+干脆做到手表上，戴在手上实时检测心率，一旦心跳停了，自动保存+上传源码，顺便给领导发请假函，永久请假。
+项目因为你个人身体因素造成延期，也是要追责的吧:joy:
+那遗嘱应该写清楚，90%的资产用于赔偿项目损失，这下就完美了。
+<@UHSGFCRK4> has joined the channel
+<https://www.economist.com/china/2019/04/20/office-workers-in-china-organise-a-rare-online-labour-movement>
+里面有段 ```The GitHub page for 996.icu says that it is “not a political movement”. But if the government does decide to crack down, it has leverage of its own that it can try to deploy, says Mr Knockel. That is, it has sway over Microsoft, whose other services, including Bing and LinkedIn, are allowed to operate in China with censored content.``` 与今天MS中的这句 ```We must entertain the possibility that Microsoft and GitHub will be pressured to remove the repository as well.``` 一致
+我们可能需要考虑这个问题
+Github可能受到某方面的压力了，及早准备PlanB，万一被crack down
+前阵子有人说过这个问题 at 作者没有给回复。。
+<@UJ424NWS1> has joined the channel
+<@UHSMY0R7C> has joined the channel
