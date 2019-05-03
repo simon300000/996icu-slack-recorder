@@ -1,0 +1,57 @@
+劳动节到了:joy:
+。
+是的，正在等icu注册机构的回复
+额，今晚加班么
+国际劳动节，他们那边搞不好也要休假。看来得好几天了。
+劳动节啊，刚好可以劳动一天庆祝一下。
+劳动节快乐，拒绝商业劳动！回归家庭劳动！！
+不给工资就不是商业劳动喽
+劳动节 美国这边 还有法国 都是要有很大的游行示威的
+可系美国不过劳动节呀
+美国劳动节好像是 9月第一个星期一
+据说是因为 当时不想把这个节日定在和社会主义挂钩的5月1号 后来就换了个日子
+有木有海外党，可以帮忙注册个美区Apple ID么
+你可以先注册一个菲律宾的ID，或者台湾的ID做跳板试试？
+关键我手机iOS连菲律宾或者台湾ip都难搞
+emmm……
+之前的梯子现在都用不了了……
+可以自己注册，只要地区设置设置成美国就可以了，原来账号登陆pc端也可以改。重新用邮箱注册也可以
+电脑开热点:rolling_on_the_floor_laughing:
+<https://cn.nytimes.com/technology/20190430/china-996-jack-ma/>
+这报道里我的名字是Nagi Zhuge
+哈哈，看出来了
+还是希望有一个官方消息源，比如这次主站无法解析问题，可以在消息源发布，避免不必要的猜测，因为不少人不在slack群
+我打电话让苹果客服给改的，不知道现在行不行
+目前在readme上添加了本次问题的说明
+不用挂v，用一个假身份生成器，解决任何要求的信息
+大家有时间可以帮忙给.icu注册机构发下请求解封的邮件
+地址是 abuse@nic.icu
+他们表示996.icu存在网络钓鱼的情况，所以停止解析了
+可以按照这份模版发：
+996.icu is a movement happenning in China and spreading around the world. It is an initiative initiated by IT practitioners.
+For details you can see at <https://github.com/996icu/996.ICU>
+
+The 996.icu is a core slogan in our movement. I don't know why it is listed in spamhaus before, but I've asked them having it removed.
+
+Therefore I'd like to request a removal of serverhold status of the domain 996.icu formally.
+现在就发，要不把域名转到亚马逊怎么样？亚马逊那边好像会好些
+是谣言，我活得好好的，没人约谈我
+什么谣言？
+# 历史上的今天
+slack 好像不翻墙上不来.
+感觉温水煮青蛙,一步步被封杀了
+Across the Great Fire Wall, WE can reach every corner in the world.
+重试了一下好像没有问题.可以进来了.
+对不起，就算有梯子朝鲜网你也进不去。
+“every corner in the world” is not true
+almost
+“发生” 单词拼错，应该是：happening
+还有其它一些语法错误，这里是修正过的：
+996.icu is a movement happening in China and spreading around the world. It is an initiative initiated by IT practitioners.
+For details, you can see at <https://github.com/996icu/996.ICU>
+
+The 996.icu is a core slogan in our movement. I don’t know why it is listed in Spamhaus before, but I’ve asked them having it removed.
+
+Therefore I’d like to request removal of server hold status of the domain 996.icu formally.
+Use Tor is better.
+<https://github.com/TheTorProject/gettorbrowser>
