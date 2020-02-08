@@ -1,3 +1,4 @@
 Test
 我想问一下，有啥办法能把slack的聊天记录和GitHub上的996icu项目备份吗
 遇事不绝先google
+996icu可以直接clone到本地，聊天记录在这 <https://github.com/simon300000/996icu-slack-recorder>
