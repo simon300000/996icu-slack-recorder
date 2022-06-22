@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/simon300000/996icu-slack-recorder#readme",
   "dependencies": {
-    "got": "^9.6.0",
+    "got": "^11.8.5",
     "ws": "^6.2.1"
   }
 }
